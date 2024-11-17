@@ -1,12 +1,4 @@
-/*
-fread and fwrite for binary 
-ÿ is de laatste character voor de extended ascii
-^ is de xor operation
-het mooie van de xor is dat het symmetrisch is en dus decrypt en encrypt hetzelfde proces hebben
 
-
-
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
